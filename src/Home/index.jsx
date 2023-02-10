@@ -14,7 +14,7 @@ export const Home = () => {
 
         <main>
             <h1>Who is Ahsan Tawil?</h1>
-            <p className="fs-5 col-md-8">
+            <p className="fs-5 col-md-12">
                 Ahsan is a man who likes the world of technology and programming.
                 I've been through a lot of things that make it a valuable experience.<br></br>
                 I work for a PMA company (Foreign Capital Company) engaged in electricity with kWh meter and AMR modem products that we supply to PLN (State Electricity Company). <br></br>
